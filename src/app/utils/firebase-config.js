@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 import { getAuth } from "firebase/auth";
 const firebaseConfig = {
-    apiKey: process.env.PRIVATE_KEY,
+    apiKey: "AIzaSyAGHAvpJq-REnXAqv9td33bzMHvC_f_B4c",
     authDomain: "sa-project-613df.firebaseapp.com",
     databaseURL: "https://sa-project-613df-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "sa-project-613df",
